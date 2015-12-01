@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PSPListviewImagenes</string>
+    <string name="descargar">Ver Imagenes</string>
+    <string name="hintet">Dirección web</string>
+</resources>
